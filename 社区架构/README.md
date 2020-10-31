@@ -1,5 +1,5 @@
-# ROSC-website
-ROSC  社区架构规划
+# ROSC-Guide
+ROSC  社区架构
 
 ## 使用说明
 
